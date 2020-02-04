@@ -1,4 +1,4 @@
 # Демо стенд
-https://code-rnd.github.io/
+<a href="https://code-rnd.github.io/">Демо стенд</a>
 # Проекты
-https://github.com/code-rnd
+<a href="https://github.com/code-rnd">Проекты</a>
