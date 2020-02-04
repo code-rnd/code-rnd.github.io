@@ -1,1 +1,2 @@
-# code-rnd.github.io
+# Демо стенд
+https://code-rnd.github.io/
