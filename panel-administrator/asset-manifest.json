@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "./static/css/main.fdc6ffbd.chunk.css",
-    "main.js": "./static/js/main.68bb879b.chunk.js",
-    "main.js.map": "./static/js/main.68bb879b.chunk.js.map",
-    "runtime-main.js": "./static/js/runtime-main.0b8b72bc.js",
-    "runtime-main.js.map": "./static/js/runtime-main.0b8b72bc.js.map",
-    "static/js/2.be5ac3f4.chunk.js": "./static/js/2.be5ac3f4.chunk.js",
-    "static/js/2.be5ac3f4.chunk.js.map": "./static/js/2.be5ac3f4.chunk.js.map",
-    "index.html": "./index.html",
-    "precache-manifest.e11d917d3d8be000f162982af91c5927.js": "./precache-manifest.e11d917d3d8be000f162982af91c5927.js",
-    "service-worker.js": "./service-worker.js",
-    "static/css/main.fdc6ffbd.chunk.css.map": "./static/css/main.fdc6ffbd.chunk.css.map",
-    "static/js/2.be5ac3f4.chunk.js.LICENSE.txt": "./static/js/2.be5ac3f4.chunk.js.LICENSE.txt",
-    "static/media/Treeview.scss": "./static/media/plus-icon.462276b8.svg",
-    "static/media/Body.scss": "./static/media/spinner-icon.18320dd1.svg"
+    "main.css": "/panel-administrator/static/css/main.00468675.chunk.css",
+    "main.js": "/panel-administrator/static/js/main.1624adea.chunk.js",
+    "main.js.map": "/panel-administrator/static/js/main.1624adea.chunk.js.map",
+    "runtime-main.js": "/panel-administrator/static/js/runtime-main.719a411f.js",
+    "runtime-main.js.map": "/panel-administrator/static/js/runtime-main.719a411f.js.map",
+    "static/js/2.be5ac3f4.chunk.js": "/panel-administrator/static/js/2.be5ac3f4.chunk.js",
+    "static/js/2.be5ac3f4.chunk.js.map": "/panel-administrator/static/js/2.be5ac3f4.chunk.js.map",
+    "index.html": "/panel-administrator/index.html",
+    "precache-manifest.c9b0eaf58c5fd45120eccb30bbe19db3.js": "/panel-administrator/precache-manifest.c9b0eaf58c5fd45120eccb30bbe19db3.js",
+    "service-worker.js": "/panel-administrator/service-worker.js",
+    "static/css/main.00468675.chunk.css.map": "/panel-administrator/static/css/main.00468675.chunk.css.map",
+    "static/js/2.be5ac3f4.chunk.js.LICENSE.txt": "/panel-administrator/static/js/2.be5ac3f4.chunk.js.LICENSE.txt",
+    "static/media/Treeview.scss": "/panel-administrator/static/media/plus-icon.462276b8.svg",
+    "static/media/Body.scss": "/panel-administrator/static/media/spinner-icon.18320dd1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0b8b72bc.js",
+    "static/js/runtime-main.719a411f.js",
     "static/js/2.be5ac3f4.chunk.js",
-    "static/css/main.fdc6ffbd.chunk.css",
-    "static/js/main.68bb879b.chunk.js"
+    "static/css/main.00468675.chunk.css",
+    "static/js/main.1624adea.chunk.js"
   ]
 }
