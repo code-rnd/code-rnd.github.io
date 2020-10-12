@@ -12,7 +12,6 @@
     <li><a href="https://code-rnd.github.io/weather-app">weather-app</a></li>
     <li><a href="https://code-rnd.github.io/fortune-game-app">fortune-game-app</a></li>
     <li><a href="https://code-rnd.github.io/galleryWidjet">galleryWidjet</a></li>
-    <li><a href="https://code-rnd.github.io/pwa-app">pwa-app</a></li>
     <li><a href="https://code-rnd.github.io/static">static</a></li>
     <li><a href="https://code-rnd.github.io/swapi-app">swapi-app</a></li>
     <li><a href="https://code-rnd.github.io/table">table</a></li>
