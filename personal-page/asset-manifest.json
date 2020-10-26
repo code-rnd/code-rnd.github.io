@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/personal-page/static/css/main.fa3a93a8.chunk.css",
+    "main.js": "/personal-page/static/js/main.ace77bb9.chunk.js",
+    "main.js.map": "/personal-page/static/js/main.ace77bb9.chunk.js.map",
+    "runtime-main.js": "/personal-page/static/js/runtime-main.244682c9.js",
+    "runtime-main.js.map": "/personal-page/static/js/runtime-main.244682c9.js.map",
+    "static/js/2.a3ef97ab.chunk.js": "/personal-page/static/js/2.a3ef97ab.chunk.js",
+    "static/js/2.a3ef97ab.chunk.js.map": "/personal-page/static/js/2.a3ef97ab.chunk.js.map",
+    "index.html": "/personal-page/index.html",
+    "precache-manifest.eef24c745d31999351e4432fb3320d5c.js": "/personal-page/precache-manifest.eef24c745d31999351e4432fb3320d5c.js",
+    "service-worker.js": "/personal-page/service-worker.js",
+    "static/css/main.fa3a93a8.chunk.css.map": "/personal-page/static/css/main.fa3a93a8.chunk.css.map",
+    "static/js/2.a3ef97ab.chunk.js.LICENSE.txt": "/personal-page/static/js/2.a3ef97ab.chunk.js.LICENSE.txt",
+    "static/media/App.scss": "/personal-page/static/media/bg-page.3b15299c.svg",
+    "static/media/mail-icon.svg": "/personal-page/static/media/mail-icon.e3c53929.svg",
+    "static/media/notification-icon.svg": "/personal-page/static/media/notification-icon.14235d44.svg",
+    "static/media/phone-icon.svg": "/personal-page/static/media/phone-icon.887e391a.svg",
+    "static/media/TableHome.scss": "/personal-page/static/media/spinner-icon.18320dd1.svg",
+    "static/media/user-avatar.svg": "/personal-page/static/media/user-avatar.3a8d3a0a.svg",
+    "static/media/user-card.svg": "/personal-page/static/media/user-card.4f990247.svg",
+    "static/media/vertical_line.svg": "/personal-page/static/media/vertical_line.9e2832b1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.244682c9.js",
+    "static/js/2.a3ef97ab.chunk.js",
+    "static/css/main.fa3a93a8.chunk.css",
+    "static/js/main.ace77bb9.chunk.js"
+  ]
+}
