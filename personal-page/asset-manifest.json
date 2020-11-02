@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/code-rnd.github.io/personal-page/static/css/main.f133448f.chunk.css",
-    "main.js": "/code-rnd.github.io/personal-page/static/js/main.acfb0cde.chunk.js",
-    "main.js.map": "/code-rnd.github.io/personal-page/static/js/main.acfb0cde.chunk.js.map",
+    "main.js": "/code-rnd.github.io/personal-page/static/js/main.81c0cfb6.chunk.js",
+    "main.js.map": "/code-rnd.github.io/personal-page/static/js/main.81c0cfb6.chunk.js.map",
     "runtime-main.js": "/code-rnd.github.io/personal-page/static/js/runtime-main.61271607.js",
     "runtime-main.js.map": "/code-rnd.github.io/personal-page/static/js/runtime-main.61271607.js.map",
-    "static/js/2.c288ac26.chunk.js": "/code-rnd.github.io/personal-page/static/js/2.c288ac26.chunk.js",
-    "static/js/2.c288ac26.chunk.js.map": "/code-rnd.github.io/personal-page/static/js/2.c288ac26.chunk.js.map",
+    "static/js/2.ef2afba5.chunk.js": "/code-rnd.github.io/personal-page/static/js/2.ef2afba5.chunk.js",
+    "static/js/2.ef2afba5.chunk.js.map": "/code-rnd.github.io/personal-page/static/js/2.ef2afba5.chunk.js.map",
     "index.html": "/code-rnd.github.io/personal-page/index.html",
-    "precache-manifest.48ddccb6ce55446b2663406494434733.js": "/code-rnd.github.io/personal-page/precache-manifest.48ddccb6ce55446b2663406494434733.js",
+    "precache-manifest.61405460ff8813112d9b5870f74b2072.js": "/code-rnd.github.io/personal-page/precache-manifest.61405460ff8813112d9b5870f74b2072.js",
     "service-worker.js": "/code-rnd.github.io/personal-page/service-worker.js",
     "static/css/main.f133448f.chunk.css.map": "/code-rnd.github.io/personal-page/static/css/main.f133448f.chunk.css.map",
-    "static/js/2.c288ac26.chunk.js.LICENSE.txt": "/code-rnd.github.io/personal-page/static/js/2.c288ac26.chunk.js.LICENSE.txt",
+    "static/js/2.ef2afba5.chunk.js.LICENSE.txt": "/code-rnd.github.io/personal-page/static/js/2.ef2afba5.chunk.js.LICENSE.txt",
     "static/media/add-contact-icon.svg": "/code-rnd.github.io/personal-page/static/media/add-contact-icon.86da14a9.svg",
     "static/media/archive-icon.svg": "/code-rnd.github.io/personal-page/static/media/archive-icon.ce6e053d.svg",
     "static/media/App.scss": "/code-rnd.github.io/personal-page/static/media/bg-page.3b15299c.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.61271607.js",
-    "static/js/2.c288ac26.chunk.js",
+    "static/js/2.ef2afba5.chunk.js",
     "static/css/main.f133448f.chunk.css",
-    "static/js/main.acfb0cde.chunk.js"
+    "static/js/main.81c0cfb6.chunk.js"
   ]
 }
