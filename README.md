@@ -5,6 +5,7 @@
 <a href="https://github.com/code-rnd?tab=repositories">Проекты</a>
 
 <ul>
+    <li><a href="https://code-rnd.github.io/coffee-shop">coffee-shop</a></li>
     <li><a href="https://code-rnd.github.io/panel-administrator">panel-administrator</a></li>
     <li><a href="https://code-rnd.github.io/magic">magic</a></li>
     <li><a href="https://code-rnd.github.io/toDoList">to do list</a></li>
